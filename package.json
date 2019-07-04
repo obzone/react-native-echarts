@@ -1,0 +1,8 @@
+{
+  "name": "react-native-echarts",
+  "version": "1.0.0",
+  "description": "react native chart component on echarts",
+  "main": "index.js",
+  "author": "obzone",
+  "license": "MIT"
+}
