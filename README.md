@@ -1,8 +1,8 @@
-# native-echarts
+# react-native-echarts
   
 ## install
 
-$ npm install native-echarts --save
+$ yarn add https://github.com/obzone/react-native-echarts
 
 ## Usage
 
@@ -23,7 +23,7 @@ import {
   Text,
   View
 } from 'react-native';
-import Echarts from 'native-echarts';
+import Echarts from 'react-native-echarts';
 
 export default class app extends Component {
 
